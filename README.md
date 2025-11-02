@@ -5,6 +5,10 @@ It enables users to trade, manage wallets, monitor balances, perform DCA or grid
 
 > ⚠️ **Disclaimer:** This bot is provided for educational and experimental purposes only. Use at your own risk. Cryptocurrency trading carries a risk of financial loss.
 
+> ⚙️ **Note:**  
+> This repository represents **only a part of the entire service**.  
+> It cannot be run independently — some components and dependencies are external or private.
+
 ---
 
 ## 🚀 Features
