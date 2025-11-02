@@ -1,0 +1,23 @@
+build/
+*.egg-info/
+*.pickle
+__pycache__/
+.env
+*.log
+account_log.txt
+.env.*
+logs/
+*.csv
+package/utils/test_re.py
+
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv

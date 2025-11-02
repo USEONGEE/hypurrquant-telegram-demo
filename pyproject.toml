@@ -1,0 +1,12 @@
+[project]
+name = "hypurrquant-telegram"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "hypurrquant",
+]
+
+[tool.uv.sources]
+hypurrquant = { git = "https://github.com/hypurrquant/hypurrquant-fastapi.git", rev = "0.9.1.post1" }
